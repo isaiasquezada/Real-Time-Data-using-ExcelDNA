@@ -1,0 +1,9 @@
+C:\Users\isaiasquezada\Desktop\Real-Time-Data-using-ExcelDNA\RTD_CurrentTime\bin\Debug\RTD_CurrentTime.dll
+C:\Users\isaiasquezada\Desktop\Real-Time-Data-using-ExcelDNA\RTD_CurrentTime\bin\Debug\RTD_CurrentTime.pdb
+C:\Users\isaiasquezada\Desktop\Real-Time-Data-using-ExcelDNA\RTD_CurrentTime\bin\Debug\ExcelDna.IntelliSense.dll
+C:\Users\isaiasquezada\Desktop\Real-Time-Data-using-ExcelDNA\RTD_CurrentTime\obj\Debug\RTD_CurrentTime.csprojAssemblyReference.cache
+C:\Users\isaiasquezada\Desktop\Real-Time-Data-using-ExcelDNA\RTD_CurrentTime\obj\Debug\RTD_CurrentTime.csproj.CopyComplete
+C:\Users\isaiasquezada\Desktop\Real-Time-Data-using-ExcelDNA\RTD_CurrentTime\obj\Debug\RTD_CurrentTime.dll
+C:\Users\isaiasquezada\Desktop\Real-Time-Data-using-ExcelDNA\RTD_CurrentTime\obj\Debug\RTD_CurrentTime.pdb
+C:\Users\isaiasquezada\Desktop\Real-Time-Data-using-ExcelDNA\RTD_CurrentTime\bin\Debug\RTD_CurrentTime.tlb
+C:\Users\isaiasquezada\Desktop\Real-Time-Data-using-ExcelDNA\RTD_CurrentTime\bin\Debug\ExcelDna.Integration.dll
